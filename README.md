@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Eduardo Pajeú! 💻
 
+#### I’m a Software Developer focused on Python and currently learning Django and AWS. 
 
-**edupajeu/edupajeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on take my career back
-- 🌱 I’m currently learning Django and AWS
+- 🌱 I’m currently learning Django, AWS and a bunch of IT things
 - 👯 I’m looking to collaborate on whatever someone needs 
 - 🤔 I’m looking for help with get back in IT Industry
 - 💬 Ask me about who I'm and I'll tell you my whole professional life
@@ -16,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Team!
 - ⚡ Fun fact: One day I'll be a billionaire and buy the Telegram.
 
-### Hi there 👋 I am Eduardo Pajeú! 💻
-
-
-#### I’m a Software Developer focused on Python and currently learning Django and AWS. 
 
 ####
 
