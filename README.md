@@ -10,7 +10,7 @@
 - 💬 Ask me about who I'm and I'll tell you my whole professional life
 - 📫 How to reach me: 
                       Eduardo's -> [Linkedin](https://www.linkedin.com/in/eduardo-pajeú) | 
-                                   [Website](https://eduardopajeu.xyz)
+                                   [Website](https://edupajeu.github.io/)
 - 😄 Pronouns: Team!
 - ⚡ Fun fact: One day I'll be a billionaire and buy the Telegram.
 
